@@ -3,8 +3,8 @@ title: Roman B.
 description: Listen. Understand. Implement. Simplify.
 show_downloads: false
 #theme: jekyll-theme-slate 
-#theme: jekyll-theme-modernist 
-theme: jekyll-theme-midnight 
+theme: jekyll-theme-modernist 
+#theme: jekyll-theme-midnight 
 plugins:
   - jekyll-seo-tag
 email: bondarenko.roman@gmail.com
