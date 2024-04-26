@@ -66,3 +66,9 @@ As a software engineer holding a Master of Science in Compuper Science with over
 ## Education
 **Degree** | Taganrog State University of Radioengineering | MS CS, Computer Software Engineering | 1999
 
+## Contact
+
+| **Name**   | Roman Bondarenko | 
+| **E-mail**   | [bondarenko.roman@gmail.com](mailto:bondarenko.roman@gmail.com) | 
+| **LinkedIn**   | [Visit page](https://www.linkedin.com/in/rbondarenko/) | 
+
