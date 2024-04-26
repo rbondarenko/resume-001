@@ -1,6 +1,3 @@
-## Senior Software Engineer
-Portfolio: [rbondarenko@github](https://rbondarenko.github.io)
-
 ## Summary
 As a software engineer holding a Master of Science in Compuper Science with over 25 years of extensive experience in software development, I offer a wealth of experience to my clients.
 
@@ -68,7 +65,9 @@ As a software engineer holding a Master of Science in Compuper Science with over
 
 ## Contact
 
-| **Name**   | Roman Bondarenko | 
-| **E-mail**   | [bondarenko.roman@gmail.com](mailto:bondarenko.roman@gmail.com) | 
-| **LinkedIn**   | [Visit page](https://www.linkedin.com/in/rbondarenko/) | 
+| **Name** | Roman Bondarenko | 
+| **E-mail** | [bondarenko.roman@gmail.com](mailto:bondarenko.roman@gmail.com) | 
+| **LinkedIn** | [Visit page](https://www.linkedin.com/in/rbondarenko/) | 
+| **GitHub** | [rbondarenko@github](https://rbondarenko.github.io)
+
 
