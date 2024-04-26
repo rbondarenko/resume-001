@@ -61,13 +61,11 @@ As a software engineer holding a Master of Science in Compuper Science with over
 **Software Engineer** at **R&D Medicom-MTD** (1998 - 1999)
 
 ## Education
-**Degree** | Taganrog State University of Radioengineering | MS CS, Computer Software Engineering | 1999
+**Taganrog State University of Radioengineering** | MS CS, Computer Software Engineering | 1999
 
 ## Contact
 
 | **Name** | Roman Bondarenko | 
 | **E-mail** | [bondarenko.roman@gmail.com](mailto:bondarenko.roman@gmail.com) | 
-| **LinkedIn** | [Visit page](https://www.linkedin.com/in/rbondarenko/) | 
-| **GitHub** | [rbondarenko@github](https://rbondarenko.github.io)
-
-
+| **LinkedIn** | [linkedin.com/in/rbondarenko](https://www.linkedin.com/in/rbondarenko/) |
+| **GitHub** | [rbondarenko.github.io](https://rbondarenko.github.io)
