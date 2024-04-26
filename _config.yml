@@ -1,7 +1,7 @@
-title: Roman Bondarenko
+title: Roman B.
 #logo: 1.png
 description: Listen. Understand. Implement. Simplify.
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal 
 plugins:
   - jekyll-seo-tag
