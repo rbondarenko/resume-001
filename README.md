@@ -1,5 +1,5 @@
-# Your Name
-Senior Software Engineer | Portfolio: [rbondarenko@github](https://rbondarenko.github.io)
+## Senior Software Engineer
+Portfolio: [rbondarenko@github](https://rbondarenko.github.io)
 
 ## Summary
 As a software engineer holding a Master of Science in Compuper Science with over 25 years of extensive experience in software development, I offer a wealth of experience to my clients.
