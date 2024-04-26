@@ -1,1 +1,8 @@
-
+title: Roman Bondarenko
+#logo: 1.png
+description: Listen. Understand. Implement. Simplify.
+show_downloads: false
+theme: jekyll-theme-minimal 
+plugins:
+  - jekyll-seo-tag
+email: bondarenko.roman@gmail.com
