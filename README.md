@@ -68,4 +68,4 @@ As a software engineer holding a Master of Science in Compuper Science with over
 | **Name** | Roman Bondarenko | 
 | **E-mail** | [bondarenko.roman@gmail.com](mailto:bondarenko.roman@gmail.com) | 
 | **LinkedIn** | [linkedin.com/in/rbondarenko](https://www.linkedin.com/in/rbondarenko/) |
-| **GitHub** | [rbondarenko.github.io](https://rbondarenko.github.io)
+| **GitHub** | [github.com/rbondarenko](https://github.com/rbondarenko)
